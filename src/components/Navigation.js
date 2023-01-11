@@ -8,7 +8,7 @@ export default function navigation() {
       <nav class="navbar navbar-expand fixed-top navbarScroll">
         <div class="container">
           <a class="navbar-brand" href="/" style={{ color: "brown" }}>
-            Vicky
+            Vignesh
           </a>
           <button
             class="navbar-toggler"
